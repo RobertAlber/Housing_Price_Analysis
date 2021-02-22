@@ -1,5 +1,5 @@
 # Housing Price Analysis
-![Housing Prices Image](/credit_card_image.jpg)
+![Housing Prices Image](/housing_prices_image.jpeg)
 
 ## Context
 Housing prices are influenced by a number of factors which include square footage, material finish, and neighborhood to name a few. The goal is to determine which factors are most influential in the final sale price of a home.  
